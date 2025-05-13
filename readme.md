@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/brandon10118/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
@@ -61,7 +61,7 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 
-The project used 
+The project used the basics of programming such as declarations and conditional.
 
 ### Key Components
 
