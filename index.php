@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class='navbar'>
-            <h7><a href='index.php'>Zodiac Signs</a></h7>
+            <h7><a href='index.php'>Zodiac Sign</a></h7>
             <a href='index.php' id='home-link'>Home</a>
             <a href='page/zodiacSigns/index.php' id='zodiacsign-link'>Zodiac Sign</a>
         </div>
