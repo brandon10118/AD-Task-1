@@ -9,8 +9,8 @@
 <body>
     <header>
         <div class='navbar'>
-            <h7><a href='-index.php' width>Zodiac Signs</a></h7>
-            <a href='-index.php' id='home-link'>Home</a>
+            <h7><a href='/index.php' width>Zodiac Signs</a></h7>
+            <a href='/index.php' id='home-link'>Home</a>
             <a href='pages/zodiacSigns/index.php' id='zodiacsign-link'>Zodiac Signs</a>
         </div>
     </header>
